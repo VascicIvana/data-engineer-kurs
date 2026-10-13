@@ -1,0 +1,1 @@
+The course is designed to guide you step by step through the world of Data Engineering through hands-on work with real datasets and practical projects. 
